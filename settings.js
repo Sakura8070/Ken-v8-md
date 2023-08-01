@@ -6,8 +6,8 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
-
+global.antispam = false //auto kick spammer (true to on, false to off) 
+global.disable_command_message_send = false //disable bot commands On Message Send (true to on, false to off)
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
 global.keyopenai = "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"
